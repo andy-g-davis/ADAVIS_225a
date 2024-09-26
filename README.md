@@ -1,5 +1,5 @@
-# ADAVIS_225a
- Practice Repository
+# Andy Davis
+
 This is my repo for BMS 225a - Data Science. My work is organized as follows:
 
 `code` All scripts used in analysis
