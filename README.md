@@ -1,4 +1,4 @@
-# Andy Davis
+# Andy Davis (BMS225a)
 
 This is my repo for BMS 225a - Data Science. My work is lovingly organized as follows below:
 
